@@ -40,7 +40,7 @@ Na pasta raiz do projeto, executar a instalção das dependencias através do ma
 
 Agora, para subir o app basta rodar o comando:
 ```
- mvnw spring-boot:run
+ mvn spring-boot:run
 ```
 
 
