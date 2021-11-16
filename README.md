@@ -1,7 +1,7 @@
 # SpringBoot with mongoDB
 
 ![GitHub language count](https://img.shields.io/github/languages/count/dugabriel/mongodbwithspring?style=for-the-badge)
-![Open issues](https://img.shields.io/bitbucket/issues/dugabriel/mongodbwithspring?style=for-the-badg)
+![Open issues](https://img.shields.io/github/issues/dugabriel/mongodbwithspring?style=for-the-badg)
 
 ### Ajustes e melhorias
 
